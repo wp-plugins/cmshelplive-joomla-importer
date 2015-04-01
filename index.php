@@ -8,7 +8,7 @@
 
  * Description: A plugin to migrate categories, posts, images and medias from Joomla to WordPress
 
- * Version:     1.0
+ * Version:     1.0.1
 
  * Author:      CMSHelpLive
 
@@ -113,10 +113,15 @@ function cmshelplivej2w_menu()
 {
 
 	add_menu_page("Joomla To WordPress","Joomla To WordPress","manage_options","cmshelplivej2w_setting","cmshelplivej2w_setting",plugins_url('/images/profile-icon2.png', __FILE__));
+	add_submenu_page("cmshelplivej2w_setting","Support","Support","manage_options","cmshelplivej2w_support","cmshelplivej2w_support");
 
 }
 
-
+function cmshelplivej2w_support()
+{
+	wp_redirect('http://wordpress.cmshelplive.com/wordpress-migration2.html'); 
+  	exit;	
+}
 
 function cmshelplivej2w_setting()
 

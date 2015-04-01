@@ -5,7 +5,7 @@ Tags: import joomla to wordpress, joomla to wordpress, joomla to wordpress conve
 
 Requires at least: 3.5
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,10 +48,16 @@ No, it only imports from Article manager component of Joomla.
 
 == Changelog ==
 
+= 1.0.1 =
+* Added support option
+
 = 1.0 =
 * First Release
 
 == Upgrade Notice ==
 
+= 1.0.1 =
+* Added support option
+
 = 1.0 =
-Initial Release
+*Initial Release

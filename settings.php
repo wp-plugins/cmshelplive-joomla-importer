@@ -34,21 +34,15 @@ $path = plugin_dir_url(__FILE__);
 
  <div class="container" style="width:100%;">
 
-  
-
- 
-
-    
-
     <div class="row">
-
+<div class="col-md-8 col-md-offset-2"><a href="http://wordpress.cmshelplive.com/wordpress-migration2.html" target="_blank"><img src="<?php echo $path; ?>images/joomla_to_wordpress_banner.jpg" /></a></div>
      <div class="col-md-12">
+		
+     <!-- <h2 class="ocrb-Pro-bootsratp-hedding">
+		
+        <?php //print $data['title'] ?>
 
-      <h2 class="ocrb-Pro-bootsratp-hedding">
-
-        <?php print $data['title'] ?>
-
-      </h2>
+      </h2>-->
 
       <p class="ocrb-Pro-bootsratp-ptex">
 

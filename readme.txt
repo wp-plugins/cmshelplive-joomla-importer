@@ -10,7 +10,7 @@ Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Import articles from your Joomla site into WordPress with few simple steps.
+Joomla to WordPress Plugin is an intuitive 4 step process to import Joomla into WordPress. No Restriction; import unlimited articles with multimedia.
 
 == Description ==
 
@@ -18,10 +18,10 @@ Joomla to WordPress plugin imports content, articles and multimedia from your Jo
 
 If this is first time you are migrating a site from Joomla to WordPress, please note that conversion process cannot be 100% automated through plugins or scripts. A-Z Joomla to WordPress conversion process includes:
 
-*Content transfer (articles, posts, multimedia, etc)
-*Theme transfer (feel, look of existing Joomla site)
-*Google Ranking transfer (SEO Assets)
-*Functionality transfer (Joomla extensions or hardcoded) 
+* Content transfer (articles, posts, multimedia, etc)
+* Theme transfer (feel, look of existing Joomla site)
+* Google Ranking transfer (SEO Assets)
+* Functionality transfer (Joomla extensions or hardcoded) 
 
 Depending on your conversion goal based on above four, manual technical intervention may be required. Google ranking transfer (includes onsite SEO transfer and URL redirections per Google guidelines) is too risky to be carried out by automated tools. Further, functionality transfer requires hand picking of best WordPress plugins and/or developing custom plugins. If you are looking to transfer the content only, our Joomla to WordPress plugin can solve this problem for you. If you are looking for A-Z migration, submit a request at WordPress.CMSHelpLive.com/wordpress-migration2.html and we will take care of all hassles. We work with both end-users and developers. 
 

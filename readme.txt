@@ -1,4 +1,4 @@
-=== Joomla Importer ===
+﻿=== Joomla Importer ===
 Contributors: CMSHelpLive
 Donate link: http://cmshelplive.com/
 Tags: convert joomla to wordpress, migrate joomla to wordpress, joomla to wordpress migration, transfer joomla to wordpress, import joomla to wordpress, joomla site to wordpress, joomla content to wordpress, joomla, joomla importer, joomla!, joomla wordpress, converter, wordpress, joomla to woocommerce
@@ -23,7 +23,7 @@ If this is first time you are migrating a site from Joomla to WordPress, please 
 * Google Ranking transfer (SEO Assets)
 * Functionality transfer (Joomla extensions or hardcoded) 
 
-Depending on your conversion goal based on above four, manual technical intervention may be required. Google ranking transfer (includes onsite SEO transfer and URL redirections per Google guidelines) is too risky to be carried out by automated tools. Further, functionality transfer requires hand picking of best WordPress plugins and/or developing custom plugins. If you are looking to transfer the content only, our Joomla to WordPress plugin can solve this problem for you. If you are looking for A-Z migration, submit a request at WordPress.CMSHelpLive.com/wordpress-migration2.html and we will take care of all hassles. We work with both end-users and developers. 
+Depending on your conversion goal based on above four, manual technical intervention may be required. Google ranking transfer (includes onsite SEO transfer and URL redirections per Google guidelines) is too risky to be carried out by automated tools. Further, functionality transfer requires hand picking of best WordPress plugins and/or developing custom plugins. If you are looking to transfer the content only, our Joomla to WordPress plugin can solve this problem for you. If you are looking for A-Z migration, submit a request at [WordPress Migration Page](WordPress.CMSHelpLive.com/wordpress-migration2.html) and we will take care of all hassles. We work with both end-users and developers. 
 
 = Development – Your Input =
 

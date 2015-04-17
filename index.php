@@ -8,7 +8,7 @@
 
  * Description: A plugin to migrate categories, posts, images and medias from Joomla to WordPress
 
- * Version:     1.0.1
+ * Version:     1.0.2
 
  * Author:      CMSHelpLive
 

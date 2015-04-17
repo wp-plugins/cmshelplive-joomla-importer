@@ -1,4 +1,4 @@
-﻿=== Joomla Importer ===
+=== Joomla Importer ===
 Contributors: CMSHelpLive
 Donate link: http://cmshelplive.com/
 Tags: convert joomla to wordpress, migrate joomla to wordpress, joomla to wordpress migration, transfer joomla to wordpress, import joomla to wordpress, joomla site to wordpress, joomla content to wordpress, joomla, joomla importer, joomla!, joomla wordpress, converter, wordpress, joomla to woocommerce
@@ -6,7 +6,7 @@ Tags: convert joomla to wordpress, migrate joomla to wordpress, joomla to wordpr
 
 Requires at least: 3.5
 Tested up to: 4.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -61,6 +61,9 @@ No, it only imports from Article manager component of Joomla.
 2. Fill in the technical details.
 
 == Changelog ==
+
+= 1.0.2 =
+* Stability improvements
 
 = 1.0.1 =
 * Added support option
